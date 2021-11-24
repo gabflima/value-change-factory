@@ -1,0 +1,8 @@
+{
+  "name": "value-change-factory",
+  "version": "1.0.0",
+  "description": "A factory for elements which react to changes in the attribute \"value\".",
+  "main": "index.js",
+  "author": "gabflima <gabriel.ferrugem.lima@gmail.com>",
+  "license": "MIT"
+}
